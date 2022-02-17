@@ -121,7 +121,7 @@ include_once './admin/koneksi.php';
                                         <th>No</th>
                                         <th>Petugas</th>
                                         <th>Siswa</th>
-                                        <th>Tgl Bayar</th>
+                                        <th>Tanggal Bayar</th>
                                         <th>Bln Bayar</th>
                                         <th>Thn Bayar</th>
                                         <th>SPP</th>
